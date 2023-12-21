@@ -39,7 +39,7 @@
     <a href="https://github.com/Carlosaj18"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-   <a href="https://github.com/Carlosaj18/Linkedin-Clone/#demo">View Demo</a>
+   <a href="https://github.com/Carlosaj18/Slack-Clone/#demo">View Demo</a>
     ·
     <a href="https://github.com/Carlosaj18/issues">Report Bug</a>
     ·
