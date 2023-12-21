@@ -71,11 +71,12 @@
 </p>
 
 ## Features:
-*     Real-time Database & Seamless Updates: Firebase's real-time database ensures immediate updates across the app.
-*     User Authentication & Authorization: Manage logins, registrations, and authorization through Firebase Authentication.
-*     Efficient State Management: Redux ensures a predictable state and enhances performance.
-*     Responsive UI: React.js enables a highly responsive and scalable user interface.
-*     Serverless Functions & Easy Deployment: Utilize Firebase Functions and Hosting for serverless computing and easy deployment.
+*     Real-time Messaging: Utilize Firebase's real-time database to enable instant messaging and updates within channels and direct messages.
+*     User Authentication: Implement Firebase Authentication to manage user logins, registrations, and secure access to channels.
+*     State Management with Redux: Employ Redux to efficiently manage application-wide state, ensuring seamless data handling across the platform.
+*     Channel Creation and Management: Allow users to create, join, and manage channels for different teams or topics.
+*     Message Threads: Support threading to organize and manage discussions within channels, enhancing conversation context.
+*     Integration Capabilities: Implement Firebase functionalities to support third-party integrations or extensions.
 
 ## Getting Started
 
